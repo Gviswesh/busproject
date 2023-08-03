@@ -180,12 +180,12 @@
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel2">
           <Properties>
-            <Property name="text" type="java.lang.String" value="jLabel2"/>
+            <Property name="text" type="java.lang.String" value="WELCOME TO HARIHARAN BUS SERVICES"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel3">
           <Properties>
-            <Property name="text" type="java.lang.String" value="jLabel3"/>
+            <Property name="text" type="java.lang.String" value="HAPPY TO INCLUDE YOU IN OUR OWN FAMILY!!!"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel4">

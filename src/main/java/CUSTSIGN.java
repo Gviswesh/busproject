@@ -53,9 +53,9 @@ public class CUSTSIGN extends javax.swing.JFrame {
 
         jLabel1.setText("jLabel1");
 
-        jLabel2.setText("jLabel2");
+        jLabel2.setText("WELCOME TO HARIHARAN BUS SERVICES");
 
-        jLabel3.setText("jLabel3");
+        jLabel3.setText("HAPPY TO INCLUDE YOU IN OUR OWN FAMILY!!!");
 
         jLabel4.setText("FIRST NAME");
 

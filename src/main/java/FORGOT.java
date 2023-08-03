@@ -44,7 +44,7 @@ public class FORGOT extends javax.swing.JFrame {
 
         jLabel1.setText("jLabel1");
 
-        jLabel2.setText("jLabel2");
+        jLabel2.setText("USERNAME AND PASSWORD HELP DESK");
 
         jLabel3.setText("ENTER YOUR MOBILE NUMBER");
 
